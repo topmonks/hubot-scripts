@@ -1,0 +1,22 @@
+{
+  "name": "office-supplies",
+  "version": "0.0.1",
+  "description": "Tool for managing office supplies list",
+  "main": "scripts/office-supplies.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/topmonks/hubot-scripts"
+  },
+  "author": "Jan Juna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/topmonks/hubot-scripts/issues"
+  },
+  "homepage": "https://github.com/topmonks/hubot-scripts",
+  "dependencies": {
+    "hubot-scripts": "^2.16.1"
+  }
+}
